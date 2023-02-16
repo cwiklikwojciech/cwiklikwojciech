@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cwiklikwojciech
+- 👋 Hi, I’m Wojtek
 - 👀 I’m interested in Frontend Technology, Cryptocurrency, Blockchain, Iot, React, Vue, Tailwind, Next
 - 🌱 I’m currently learning work with Vue, Firebase
 - 💞️ I’m looking to collaborate on interesting projects
